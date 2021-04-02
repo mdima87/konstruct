@@ -15,8 +15,8 @@ body {
 
 /* Шапка сайта */
 .page-header {
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 100vh;
 	margin: 0 auto;
 }
 .header__content-wrap {
